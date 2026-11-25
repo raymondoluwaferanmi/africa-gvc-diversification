@@ -1,0 +1,11 @@
+.Rproj.user/
+.Rhistory
+.RData
+data/raw/
+data/temp/
+outputs/
+renv/library/
+.Rproj.user
+.httr-oauth
+.DS_Store
+.quarto
